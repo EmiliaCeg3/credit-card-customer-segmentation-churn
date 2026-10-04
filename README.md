@@ -1,2 +1,2 @@
 # Credit Card Customer Segmentation & Churn Prediction
-Customer segmentation and churn prediction for a credit card portfolio using machine learning.
+This project focuses on customer segmentation and churn prediction in a credit card portfolio using machine learning.
